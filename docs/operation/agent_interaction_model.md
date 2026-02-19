@@ -9,15 +9,15 @@ Multiple agents may interact with the same decision.
 
 Each agent may:
 
-propose a solution
+.propose a solution
 
-critique a proposal
+.critique a proposal
 
-support a version
+.support a version
 
-raise an objection
+.raise an objection
 
-request revision
+.request revision
 
 Influence Principles
 
